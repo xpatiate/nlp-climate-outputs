@@ -1,2 +1,3 @@
 # nlp-climate-outputs
-outputs from GPT/climate policy research project
+
+This repo serves as an easy way to share outputs from my GPT/climate policy research project.
