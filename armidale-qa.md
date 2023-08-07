@@ -1,3 +1,5 @@
+The climate policy in this example is [A Framework for Climate Action](https://www.armidaleregional.nsw.gov.au/ArticleDocuments/1136/AI%202021%2002335%20%20CEWG%20Report%20-%2026oct2020-V5-1.pdf.aspx), Armidale Regional Council, April 2020.
+
 # Question: Does the document truthfully state the ‘what’ and the ‘why’ of a climate emergency response?
 
 ## Answer
