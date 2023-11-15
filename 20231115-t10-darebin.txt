@@ -1,0 +1,539 @@
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Our climate is changing rapidly. The past few decades have seen an unprecedented rate of warming. We...es and millions of people are in danger of being displaced. Commentators and researchers are already
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities. It acknowledges that the most disadvantaged and vulnerable in the community are those who will be most impacted by the effects of climate change and are the least equipped to adapt. It also highlights the need for actions to support these groups and includes specific actions to enhance and increase community capacity, support one another during extreme events, and focus on the most vulnerable communities in its Climate Emergency Darebin initiative.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt." and "Enhance and increase the community capacity to support one another during extreme events." and "CED will have a strong focus on our most vulnerable and disadvantaged communities."
+
+Explanation: These quotes show that the document not only recognizes the disproportionate impact of climate change on vulnerable communities but also includes specific plans and initiatives to support these groups in response to the climate emergency.
+
+]633;C]633;E;for I in `seq 1 4`;85b74f84-85bd-4b50-a071-f74c33ae9ade1
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly discusses the impact of climate change on vulnerable communities. It considers the most disadvantaged and vulnerable such as older people, children under 5 years of age, pregnant or nursing mothers, people with pre-existing medical conditions, and people with a disability. It also highlights that the risk is compounded in disadvantaged groups such as low-income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves."
+
+Explanation: This context answers the question because it explicitly states that the most disadvantaged and vulnerable in the community will be most impacted by climate change. It also provides specific examples of who these vulnerable communities are, and how they are likely to be impacted.
+
+2
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Our climate is changing rapidly. The past few decades have seen an unprecedented rate of warming. We...es and millions of people are in danger of being displaced. Commentators and researchers are already
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly discusses the impact of climate change on vulnerable communities, outlining specific demographics that are more likely to be heavily impacted by climate change. The document acknowledges that the most disadvantaged and vulnerable in the community are those who will be most impacted by the effects of climate change, including older people, children under 5, pregnant or nursing mothers, people with pre-existing medical conditions, and people with a disability. The document also mentions that these impacts are compounded in disadvantaged groups such as low income earners, people living in poorly insulated housing or without air conditioning, and those who are homeless or have limited access to resources. 
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves. These include older people (65 years and older), children under 5 years of age, pregnant or nursing mothers, people with pre-existing medical conditions, such as diabetes, heart disease or mental illness, and people with a disability."
+
+Explanation: This context answers the question by demonstrating that the document acknowledges the impact of climate change on vulnerable communities and outlines specific demographics that are at increased risk. It also shows that the document considers the compounding factors that might increase this risk, such as socioeconomic status and living conditions.
+
+3
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly discusses the impact of climate change on vulnerable communities. It explicitly acknowledges that the most disadvantaged and vulnerable in the community will be the most impacted by the effects of climate change and the least equipped to adapt. These vulnerable groups include older people, children under 5 years of age, pregnant or nursing mothers, people with pre-existing medical conditions, such as diabetes, heart disease or mental illness, people with a disability, low income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to resources. The document also emphasises the need for community resilience to climate change.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves. These include older people (65 years and older), children under 5 years of age, pregnant or nursing mothers, people with preexisting medical conditions, such as diabetes, heart disease or mental illness, and people with a disability. The risk is compounded in disadvantaged groups such as low income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to resources."
+
+Explanation: This context answers the question as it outlines the specific groups within the community that the document identifies as being the most vulnerable to the impacts of climate change. It also describes the types of impacts these groups are likely to experience, demonstrating a thorough consideration of the ways in which climate change will affect different sectors of the community.
+
+4
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> implement fossil fuel divestment Be a conscious consumer – ask your financial institution what thei...eading to localised warming of the surrounding area. This is known as the urban heat island effect.
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly discusses the impact of climate change on vulnerable communities. It recognises that the most disadvantaged and vulnerable in the community are those who will be most impacted by the effects of climate change and the least equipped to adapt. 
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt."
+
+Explanation: This context answers the question as it explicitly acknowledges the differential impact of climate change on vulnerable communities. The document goes further to specify groups within the community that are particularly vulnerable such as older people, children, pregnant or nursing mothers, people with pre-existing medical conditions, and people with a disability. The effects of heatwaves and flood damage on housing are also specifically mentioned.
+
+]633;C]633;E;for I in `seq 1 5`;85b74f84-85bd-4b50-a071-f74c33ae9ade1
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities. It recognizes that the most disadvantaged and vulnerable in the community are those who will be most impacted by the effects of climate change and the least equipped to adapt. The document also emphasizes the need for a strong focus on the most vulnerable and disadvantaged communities in climate emergency planning and action.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves. These include older people (65 years and older), children under 5 years of age, pregnant or nursing mothers, people with preexisting medical conditions, such as diabetes, heart disease or mental illness, and people with a disability. The risk is compounded in disadvantaged groups such as low income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to"
+
+Explanation: This context answers the question as the document explicitly recognises the disproportionate impact of climate change on the most vulnerable members of the community, and aims to address this disparity through its climate emergency planning and actions. It provides a list of specific groups who are more susceptible to the negative impacts of climate change, showing that the policy has considered who will be most affected.
+
+2
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities. It discusses how the most disadvantaged and vulnerable in the community will be the most impacted by the effects of climate change such as heatwaves and flood damage to housing and disruptions to essential services. The document further specifies that sections of Darebin’s population including older people, children, pregnant or nursing mothers, people with pre-existing medical conditions, and people with a disability are more vulnerable to the impacts of heatwaves. The document also acknowledges that the risk is compounded in disadvantaged groups such as low-income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to resources.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt."
+
+Explanation: This context thoroughly answers the question because it directly discusses the impact of climate change on vulnerable communities, specifying the groups of people most affected and the types of impacts they are likely to experience.
+
+3
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities and makes it a priority to focus on these groups. 
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves. These include older people (65 years and older), children under 5 years of age, pregnant or nursing mothers, people with pre-existing medical conditions, such as diabetes, heart disease or mental illness, and people with a disability. The risk is compounded in disadvantaged groups such as low income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to..."
+
+Explanation: This context answers the question as it directly addresses the impact of climate change on vulnerable populations and acknowledges that these groups are often the most affected by climate change. It also provides specific examples of who these vulnerable populations are and how they are affected by climate change, showing a comprehensive understanding of social equity in relation to climate change.
+
+4
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Ensure all sports grounds, courts, fields, courses and areas have either warm-season grass, no irrig...Strategy Work with federal and state governments, electricity distribution companies and developers
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities, particularly those who are likely to be most severely affected by climate change. It highlights specific groups that are more vulnerable to the impacts of climate change, including older people, children, pregnant or nursing mothers, people with pre-existing medical conditions, and people with disabilities. The document also notes that the risk is compounded in disadvantaged groups such as low-income earners, people living in poorly insulated housing or without air conditioning, homeless people, and those with limited access to resources.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt. Sections of Darebin’s population are significantly more vulnerable to the impacts of heatwaves. These include older people (65 years and older), children under 5 years of age, pregnant or nursing mothers, people with pre-existing medical conditions, such as diabetes, heart disease or mental illness, and people with a disability. The risk is compounded in disadvantaged groups such as low income earners, people living in poorly insulated housing or without air conditioning, who are homeless or have limited access to resources."
+
+Explanation: This context answers the question because it clearly identifies and acknowledges the groups within the community who are most vulnerable to the impacts of climate change. It also outlines the specific ways in which these groups are disproportionately affected, demonstrating a thorough understanding of the social justice implications of climate change.
+
+5
+# Attribute 10: Equity and social justice
+## Question 1: Think about how the document addresses equity and social justice. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> | Darebin Climate Emergency Plan 2017-2022 Ensure well-resourced research into what is needed to a...community However, in many cases, the Climate Institute found people feel they are simply not given
+
+> in the next section will further focus on accelerating sustained and meaningful action with the com...mate change polices relevant to their work and how they can make practical changes to help restore a
+
+> increase permeability of ground cover, detain and reuse water on-site and provide drainage infrastr...in poorly insulated housing or without air conditioning, who are homeless or have limited access to
+
+> enough clarity about what they could be doing about climate change: 6.8.1. Context While the Plan h...action on. We hear about recycling and low-energy bulbs, but surely there’s more that we can do.” –
+
+> reducing biodiversity, with beef and cheese having particularly high impacts.74 The need to address...o the item when we’ve finished with it, but everything we buy has environmental impacts ‘upstream’ (
+
+> and prominent in existing programs such as the Sustainable Homes and Communities Program, the bienn...d climate emergency education through events – both those specifically organised by Council to raise
+
+> impacts of broader factors such as climate change and peak oil. It also includes actions to: 6.5.2....impact of food. State State legislation is designed to implement the policy Getting full value: the
+
+> . Create public open space that meet the diverse needs of the community and incorporates climate an...new or replacement trees use little or no water or can use alternative water sources for irrigation
+
+> to flood some major cities and the river deltas where much of the world’s food is grown.5, 6 Climat...anet.10 Darebin Council is committed to taking action to preserve a liveable planet for our children
+
+> 4. Objectives and Actions 6.2.4. Objectives and Actions 6.9. Key direction # 9 – Climate Emergency...Executive Summary | Darebin Climate Emergency Plan 2017-2022 Executive Summary1 EXECUTIVE SUMMARY
+
+> drought and climate change. PLANNING POLICIES A well connected network of accessible open spaces tha...ate Emergency mobilisation and leadership 6.1.2 Supporting policies 6.1.1 Context “The unprecedented
+
+> | Darebin Climate Emergency Plan 2017-2022 In a Climate Emergency world, this approach makes sense...itutions away from the fossil fuel industry. Other Governments and institutions There are many other
+
+> climateinstitute.org.au/verve/_resources/TCI_ ClimateOfTheNation2013_web.pdf 96 http://www.climatei...rgency approach. Action to achieve our goals | Darebin Climate Emergency Plan 2017-2022 6.8.3. Eng
+
+> ational review of all Council programs and policies to ensure alignment with Council’s Climate Emerg...t, other councils and other stakeholders to establish climate emergency programs and to cooperate on
+
+> advocate to the State and Federal Governments regarding policies and issues that support the purpose...esilience in our community, with a strong focus on our most vulnerable communities 6.9.2. Supporting
+
+> neighbours, friends, colleagues Ensure policy consistency with a climate emergency approach to redu...nd industry to increase climate change action and funding for community and local government action
+
+> linking conflicts around the world with climate change impacts such as drought. Council has recogni...Darebin and for people, civilisation and species globally, especially the most vulnerable We will be
+
+> While we are taking action to avoid catastrophic climate change, it is vitally important to plan for...in locations and contexts which result in significantly cooler microclimates will reduce the effects
+
+> areas of Darebin where the impact of the urban heat island effect has been assessed as more severe...e the urban heat island effect and the impact of heatwaves on Darebin’s most vulnerable residents. 3
+
+> Our climate is changing rapidly. The past few decades have seen an unprecedented rate of warming. We...es and millions of people are in danger of being displaced. Commentators and researchers are already
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the impact of climate change on vulnerable communities. It acknowledges that the most disadvantaged and vulnerable in the community are those who will be most impacted by the effects of climate change and the least equipped to adapt. It specifically mentions older people, children under 5, pregnant or nursing mothers, people with pre-existing medical conditions, and people with a disability, among others, as being particularly vulnerable. The document also discusses the need for community-based local food systems to reduce reliance on carbon-intensive global food systems and to support one another during extreme events.
+
+Context: "The most disadvantaged and vulnerable in our community are those who will be most impacted by the effects of climate change (such as heatwaves, flood damage to housing and disruption to essential services) and the least equipped to adapt."
+
+Explanation: This quote exemplifies the document's recognition of the disproportionate impact of climate change on vulnerable communities. It explicitly states that these communities are the most impacted and least equipped to adapt to climate change, demonstrating a thorough understanding of the social justice implications of climate change.
+
