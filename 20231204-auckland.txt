@@ -1,0 +1,544 @@
+]633;C]633;E;for Q in `seq 1 10`;85b74f84-85bd-4b50-a071-f74c33ae9ade1
+# Attribute 1: Purpose of action
+## Think about how the document addresses 'purpose of action'. Does the document truthfully state the 'what' and the 'why' of a climate emergency response? Does the document plainly state who is responsible for action?
+### Context
+> ...... 49 Full action list ............................................................................a Just Transition – and how do we achieve it? .....................................................
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Auckland's Climate Action Framework Draft for consultation Table of Contents Takutaku ................................................................................................................. 25
+
+> framework and draft actions for this framework. This key move sets a high level direction for all...e visions, approaches, perspectives and voices from rangatahi are less recognised in decisionmaking.
+
+> A set of priority actions and areas of focus began to emerge. Refining actions and scoping implemen...ed develop five flagship actions. The flagships demonstrate what collaborative climate action looks
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> process. Auckland’s local and regional approach is aligned with a supportive and enabling national...and decisions. 5. Embed climate change assessments into decision-making processes and reporting. 6.
+
+> systems, to climate finance, to how climate change affects Māori. All 170 elected members have als...ctions and themes that inform and are integrated into this action framework. Find out more about the
+
+> the next century. Action is required to deal with, anticipate and adapt to the impacts of a changing...ater and Atmospheric Research (Pearce et al., 2018). Climate Change Risk Assessment for Auckland The
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> first of its kind in New Zealand. The CCRA looks at risks to our people, our environment and our in...economy The draft framework contains 11 key moves for Tāmaki Makaurau. Some will be delivered more
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> rethinking how each of us lives and the choices we all make, including how we travel, what we buy a...Aucklanders understand what climate change means for them, their whānau and their communities – now
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> and into the future. Aucklanders know how to build climate resilience and take action to reduce emi...nitiatives that reduce emissions, build resilience and enable a just transition 4. Pro-actively plan
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+
+## Answer
+Short answer: 2: Adequately
+
+Long answer: The document adequately addresses the 'what' and 'why' of a climate emergency response. It outlines the purpose of action as being to reduce greenhouse gas emissions, prepare the city for the impacts of a changing climate, and achieve a range of important benefits like healthier people, cleaner air and water, and stronger communities and economies. The document also states that Auckland Council will take the lead role in coordinating and developing the framework, but that it will also rely on other organisations and sectors to deliver some of the actions.
+
+Context: "Auckland Council has committed to facilitating the development of Auckland’s Climate Action Framework. It will steer the region on a path toward rapidly reducing greenhouse gas emissions and preparing the city for the impacts of a changing climate." and "Auckland Council took the lead role of coordinating and developing this framework. It will own and deliver some of the actions. It will enable and partner on others. Other organisations and sectors will be responsible for owning and delivering the rest of the actions."
+
+Explanation: These quotes show that the document clearly outlines the purpose of the climate emergency response and who is responsible for taking action. The first quote explains the 'what' and 'why' of the response, while the second quote outlines who will be responsible for implementing the actions.
+
+2
+# Attribute 2: Urgency of action
+## Think about how the document addresses 'urgency of action'. Does the document call for rapid and urgent action?
+### Context
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> A set of priority actions and areas of focus began to emerge. Refining actions and scoping implemen...ed develop five flagship actions. The flagships demonstrate what collaborative climate action looks
+
+> ’s unique cultural heritage and diversity. Equity and a just transition Ensuring fair and affordable...show promise if scaled up Actions essential to unlocking system change, better evidence, additional
+
+> ...... 49 Full action list ............................................................................a Just Transition – and how do we achieve it? .....................................................
+
+> Auckland's Climate Action Framework Draft for consultation Table of Contents Takutaku ................................................................................................................. 25
+
+> framework and draft actions for this framework. This key move sets a high level direction for all...e visions, approaches, perspectives and voices from rangatahi are less recognised in decisionmaking.
+
+> the next century. Action is required to deal with, anticipate and adapt to the impacts of a changing...ater and Atmospheric Research (Pearce et al., 2018). Climate Change Risk Assessment for Auckland The
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> , even if global emissions reduce rapidly. They will be far more severe if countries fail to delive...Institute of Water and Atmospheric Research (NIWA)6 looks at Auckland’s future climate. The report
+
+> . Flagship actions: These are significant actions with the potential to unlock larger impact and sca...od that meets their dietary needs and food preferences for an active and healthy life Fossil fuels A
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> like council committees and the Mana Whenua Kaitiaki Forum. But new crosssector groups may need to...nance.13” Our work builds on and connects into a range of existing concepts and initiatives14. The
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> Council facilitated this framework in collaboration with stakeholders across the region. Actions an...ve Your Say events, and by providing feedback at: akhaveyoursay.nz This document is available online
+
+> Climate Change Risk Assessment technical report series was done using the Intergovernmental Panel o...Auckland. To both mitigate and adapt to climate change and to inform planning and decision making,
+
+> standard for all new developments and infrastructure. 5. Plan for a quality compact urban form that...hrough to contracting and construction is strongly compartmentalised. The purpose of the flagship is
+
+> means things like flood control, air and water quality, public transport and regional parks. The Bu...%40bill%40regulation% 40deemedreg_Climate+Change+Response+(Zero+Carbon)+Amendment+Bill_resel_25_a&p=
+
+> ships at berth Key move 4: Transition existing buildings and places Deliver targeted commercial, in...a Whenua, Auckland Action Who needs to be involved Council, CCOs, DHBs Panuku Establish and rapidly
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document frequently emphasizes the urgency of implementing climate change actions. It outlines a phased delivery of actions, categorized into three time periods: Transition (2019-2023), Acceleration (2023-2030), and Transformation (2030-2050). This indicates a clear sense of urgency and a structured plan for rapid action. The document also details the immediate and long-term risks of climate change, further emphasizing the need for prompt action.
+
+Context: "Each key move is an area of focus that contains a set of actions. Some will be delivered more quickly and easily, others will require more time and effort. They are all set within three time periods: Transition: 2019-2023, Acceleration: 2023-2030, Transformation: 20302050."
+
+Explanation: This context is relevant because it directly outlines the document's plan for rapid and urgent action against climate change, broken down into specific time periods. This indicates a comprehensive and detailed plan for tackling climate change in a timely manner.
+
+3
+# Attribute 3: Prioritisation of action
+## Think about how the document addresses 'prioritisation of action'. Does the document state that a climate emergency response must have higher priority than other policies?
+### Context
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> A set of priority actions and areas of focus began to emerge. Refining actions and scoping implemen...ed develop five flagship actions. The flagships demonstrate what collaborative climate action looks
+
+> ...... 49 Full action list ............................................................................a Just Transition – and how do we achieve it? .....................................................
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> , even if global emissions reduce rapidly. They will be far more severe if countries fail to delive...Institute of Water and Atmospheric Research (NIWA)6 looks at Auckland’s future climate. The report
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> process. Auckland’s local and regional approach is aligned with a supportive and enabling national...and decisions. 5. Embed climate change assessments into decision-making processes and reporting. 6.
+
+> framework and draft actions for this framework. This key move sets a high level direction for all...e visions, approaches, perspectives and voices from rangatahi are less recognised in decisionmaking.
+
+> Auckland's Climate Action Framework Draft for consultation Table of Contents Takutaku ................................................................................................................. 25
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> systems, to climate finance, to how climate change affects Māori. All 170 elected members have als...ctions and themes that inform and are integrated into this action framework. Find out more about the
+
+> the next century. Action is required to deal with, anticipate and adapt to the impacts of a changing...ater and Atmospheric Research (Pearce et al., 2018). Climate Change Risk Assessment for Auckland The
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> first of its kind in New Zealand. The CCRA looks at risks to our people, our environment and our in...economy The draft framework contains 11 key moves for Tāmaki Makaurau. Some will be delivered more
+
+> . It aims to set long-term national direction on emissions reduction and climate resilience with di...helps sustainably manage resource use and environmental impacts of activities into the future31. It
+
+
+## Answer
+Short answer: 0: Not at all
+
+Long answer: The document does not explicitly state that a climate emergency response must have higher priority than other policies. The document outlines a comprehensive approach to addressing climate change, detailing the process of prioritising climate action, testing emerging actions, refining actions, and implementing them. However, it does not compare the urgency or importance of these actions to other policies.
+
+Context: "The first step in developing this draft framework was to identify priorities for the region... A set of 11 key moves began to take shape. Each key move had actions that would deliver emissions reduction, resilience and a range of other desired outcomes."
+
+Explanation: This context shows that a process of prioritisation was undertaken to develop the climate action framework, but it does not indicate that these actions are considered more important than other policies.
+
+4
+# Attribute 4: Institutional resource mobilisation
+## Think about how the document addresses 'institutional resource mobilisation'. Does the plan allocate available discretionary funds and other institutional resources towards climate action?
+### Context
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> benefits for all Key Move 2: Make development and infrastructure climate-compatible Goal: All new d...arbon, climate resilient economy Goal: Tāmaki Makaurau sets an example for climate smart innovation,
+
+> framework and the financing landscape and tools will evolve. This requires that as we use and repu...y Survey (http://www.mfe.govt.nz/publications/climate-change/climate-finance-landscape-aotearoa-new-
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> • Move away from a capital cost-based analysis for assessing development options, to measuring whol...systems to provide climate resilience. Conversely, evidence demonstrates that quality compact urban
+
+> standard for all new developments and infrastructure. 5. Plan for a quality compact urban form that...hrough to contracting and construction is strongly compartmentalised. The purpose of the flagship is
+
+> sector-based programmes to grow low carbon and climate resilience skills 4. Leverage public sector...lass climate solutions across Tāmaki Makaurau and wider New Zealand. This project has been developed
+
+> Vegetable Growers, NGOs Establish a cross-sector sustainable food policy council to advise policy ma...empowers Aucklanders to take action and have a say in climate decisions. Climate Leaders Coalition,
+
+> related to most challenges. Auckland Council has had direct involvement with Our Land and Water, R...ovt.nz/science-and-technology/science-and-innovation/funding-information-andopportunities/investment
+
+> process. Auckland’s local and regional approach is aligned with a supportive and enabling national...and decisions. 5. Embed climate change assessments into decision-making processes and reporting. 6.
+
+> ivering water infrastructure. Future-proofing water and stormwater infrastructure delivers a range...nz/grants-community-support-housing/grants/Pages/default.aspx 25 https://www.aucklandcouncil.govt.nz
+
+> Key move 2: Make development and infrastructure climate-compatible Accelerate the uptake of sustain...the impacts of a changing climate. Auckland Council, MfE, CCOs, DHBs, NZTA, Infrastructure Lifelines
+
+> Private business Community Groups, Auckland Council, Mana Whenua Unlock barriers and support commun...Accelerate the business transition to zero carbon and build resilience ATEED, Sustainable Business
+
+> Investment The New Zealand Wellbeing Budget is the overarching investment framework for all programm...ators compete for over $680 million in funding over the ten-year term of the NSC. Climate change is
+
+> . It aims to set long-term national direction on emissions reduction and climate resilience with di...helps sustainably manage resource use and environmental impacts of activities into the future31. It
+
+> scale low carbon, resilient precincts across the region Auckland Council, CCOs, Infrastructure Lifel...nd walking infrastructure Auckland Council, Mana Whenua Assess a range of road pricing schemes where
+
+
+## Answer
+Short answer: 2: Adequately
+
+Long answer: The document addresses 'institutional resource mobilisation' by highlighting the need for a collaborative approach in implementing the plan, involving various sectors and groups. It mentions that Auckland Council will invest in its governance and delivery, indicating some allocation of institutional resources towards climate action. However, the document does not provide specific details on the allocation of available discretionary funds.
+
+Context: "As facilitator of the framework, Auckland Council will continue to invest in its governance and delivery. It will also bring more voices into decision-making and delivery."
+
+Explanation: This context is relevant as it indicates an institutional commitment to mobilise resources for the successful implementation of the climate action plan. However, it does not provide specifics on the allocation of discretionary funds, hence the rating of 'adequately' rather than 'thoroughly'.
+
+5
+# Attribute 5: Social mobilisation
+## Think about how the document addresses 'social mobilisation'. Does the document actively empower and educate the community to rally, support, and work productively together to deliver climate action?
+### Context
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> benefits for all Key Move 2: Make development and infrastructure climate-compatible Goal: All new d...arbon, climate resilient economy Goal: Tāmaki Makaurau sets an example for climate smart innovation,
+
+> and into the future. Aucklanders know how to build climate resilience and take action to reduce emi...nitiatives that reduce emissions, build resilience and enable a just transition 4. Pro-actively plan
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> Vegetable Growers, NGOs Establish a cross-sector sustainable food policy council to advise policy ma...empowers Aucklanders to take action and have a say in climate decisions. Climate Leaders Coalition,
+
+> rethinking how each of us lives and the choices we all make, including how we travel, what we buy a...Aucklanders understand what climate change means for them, their whānau and their communities – now
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> process. Auckland’s local and regional approach is aligned with a supportive and enabling national...and decisions. 5. Embed climate change assessments into decision-making processes and reporting. 6.
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> framework and draft actions for this framework. This key move sets a high level direction for all...e visions, approaches, perspectives and voices from rangatahi are less recognised in decisionmaking.
+
+> systems, to climate finance, to how climate change affects Māori. All 170 elected members have als...ctions and themes that inform and are integrated into this action framework. Find out more about the
+
+> . Implement kerbside food scraps collection service across urban Auckland 2. Support primary industr...tional equity A group of rangatahi Māori and Pasifika have worked to develop a draft Innovation Waka
+
+> framework. Many of the actions in this framework require a central government role. Find out more a...impacts, and we will need to work together to ensure Auckland’s ongoing prosperity. Community Groups
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> Rangitahi, Mana Whenua, Community leaders, Advisory panels Auckland Council, Mfe, CCOs, DHBs, Creati...date climate change evidence and provide guidance to decision makers for its use. Auckland Council,
+
+> Private business Community Groups, Auckland Council, Mana Whenua Unlock barriers and support commun...Accelerate the business transition to zero carbon and build resilience ATEED, Sustainable Business
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses social mobilisation, placing communities and their representative organisations at the forefront of climate change action. It recognises the importance of local knowledge and understanding in successfully implementing climate change actions. The document also emphasises the need for individual and collective action, and for the empowerment of all Aucklanders to make their communities more resilient and emissions-free. It also outlines a broad range of actions to be taken, including working with communities to strengthen resilience and adapt to changes, supporting community-based initiatives that reduce emissions, and enabling long term and wide-reaching engagement that empowers Aucklanders to take action and have a say in climate decisions.
+
+Context: "Communities and the organisations that represent them are at the forefront of dealing with climate change and taking action to address it. Many, if not most, actions within the framework will not succeed without those who know their local areas the best and what will be needed to make change."
+
+Explanation: This quote highlights the document's emphasis on the role of communities and local organisations in tackling climate change, recognising their knowledge and understanding of their local areas as key to successful action. It also suggests a commitment to empowering these communities to take action and make decisions that will impact their local areas.
+
+6
+# Attribute 6: Restoring a safe climate
+## Think about how the document addresses 'restoring a safe climate'. Does the plan include specific targets and actions for mitigation of greenhouse gas emissions? These may focus on technology or on the development of sustainable practices, and should encourage societal, economic, environmental and cultural transformation.
+### Context
+> benefits for all Key Move 2: Make development and infrastructure climate-compatible Goal: All new d...arbon, climate resilient economy Goal: Tāmaki Makaurau sets an example for climate smart innovation,
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> • Move away from a capital cost-based analysis for assessing development options, to measuring whol...systems to provide climate resilience. Conversely, evidence demonstrates that quality compact urban
+
+> first of its kind in New Zealand. The CCRA looks at risks to our people, our environment and our in...economy The draft framework contains 11 key moves for Tāmaki Makaurau. Some will be delivered more
+
+> research that may increase our abilities to effectively prepare and respond to climate change. What...fficiencies. By taking fewer resources, using resources well and regenerating what we use, we close
+
+> standard for all new developments and infrastructure. 5. Plan for a quality compact urban form that...hrough to contracting and construction is strongly compartmentalised. The purpose of the flagship is
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> . It aims to set long-term national direction on emissions reduction and climate resilience with di...helps sustainably manage resource use and environmental impacts of activities into the future31. It
+
+> Private business Community Groups, Auckland Council, Mana Whenua Unlock barriers and support commun...Accelerate the business transition to zero carbon and build resilience ATEED, Sustainable Business
+
+> Key move 2: Make development and infrastructure climate-compatible Accelerate the uptake of sustain...the impacts of a changing climate. Auckland Council, MfE, CCOs, DHBs, NZTA, Infrastructure Lifelines
+
+> strong population growth and the resulting need for new homes that meet zero carbon standards, as w...aboration and engagement across Auckland Council and Council Controlled Organisation teams. We also
+
+> ’s unique cultural heritage and diversity. Equity and a just transition Ensuring fair and affordable...show promise if scaled up Actions essential to unlocking system change, better evidence, additional
+
+> means things like flood control, air and water quality, public transport and regional parks. The Bu...%40bill%40regulation% 40deemedreg_Climate+Change+Response+(Zero+Carbon)+Amendment+Bill_resel_25_a&p=
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> ...... 49 Full action list ............................................................................a Just Transition – and how do we achieve it? .....................................................
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the restoration of a safe climate through specific targets and actions for the mitigation of greenhouse gas emissions. It outlines 11 key moves, each with specific goals, that aim to reduce emissions and increase climate resilience. These moves focus on a range of areas such as enhancing ecosystem services, shifting to decentralised renewable energy, transforming existing buildings, delivering clean mobility options, and enabling a just transition to a zero carbon economy. The document also mentions the need for societal, economic, environmental, and cultural transformation to achieve these goals.
+
+Context: "The 11 Key Moves...They will deliver seven climate action outcomes with a range of important benefits like healthier people, cleaner air and water, and stronger communities and economies."
+
+Explanation: This context is relevant because it shows the comprehensive approach taken by the local government in addressing climate change. The key moves mentioned not only focus on technological changes but also on societal transformation to ensure a just transition to a zero carbon economy. The focus on multiple benefits, not just emission reduction, shows a holistic approach to climate change mitigation.
+
+7
+# Attribute 7: Adapting to a changing climate
+## Think about how the document addresses 'adapting to a changing climate'. Does the plan include specific targets and actions for climate adaptation, which may be described as 'building resilience' or 'reducing vulnerability'?
+### Context
+> Massey University Mitigation What is climate resilience? Climate resilience is being climate-ready....framework make Auckland and its communities more resilient. It also serves as a baseline for future
+
+> ready means anticipating, absorbing, accommodating or recovering from the impacts of climate change...essment Climate change is impacting Auckland. Projections indicate that impacts will intensify over
+
+> Climate Change Risk Assessment technical report series was done using the Intergovernmental Panel o...Auckland. To both mitigate and adapt to climate change and to inform planning and decision making,
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> or improvement of its essential basic structures and functions. Climate risks The exposure to clima...ems near the coast, such as sand dunes (UNEP) Coastal erosion Coastal erosion is the loss of coastal
+
+> first of its kind in New Zealand. The CCRA looks at risks to our people, our environment and our in...economy The draft framework contains 11 key moves for Tāmaki Makaurau. Some will be delivered more
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> ...... 49 Full action list ............................................................................a Just Transition – and how do we achieve it? .....................................................
+
+> and into the future. Aucklanders know how to build climate resilience and take action to reduce emi...nitiatives that reduce emissions, build resilience and enable a just transition 4. Pro-actively plan
+
+> , even if global emissions reduce rapidly. They will be far more severe if countries fail to delive...Institute of Water and Atmospheric Research (NIWA)6 looks at Auckland’s future climate. The report
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> food and energy security, and rising inequality. In fact, climate change may make many of these ch...kland and our communities more resilient. It also serves as a baseline for future research that may
+
+> ivering water infrastructure. Future-proofing water and stormwater infrastructure delivers a range...nz/grants-community-support-housing/grants/Pages/default.aspx 25 https://www.aucklandcouncil.govt.nz
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> benefits for all Key Move 2: Make development and infrastructure climate-compatible Goal: All new d...arbon, climate resilient economy Goal: Tāmaki Makaurau sets an example for climate smart innovation,
+
+> means things like flood control, air and water quality, public transport and regional parks. The Bu...%40bill%40regulation% 40deemedreg_Climate+Change+Response+(Zero+Carbon)+Amendment+Bill_resel_25_a&p=
+
+> rethinking how each of us lives and the choices we all make, including how we travel, what we buy a...Aucklanders understand what climate change means for them, their whānau and their communities – now
+
+> the next century. Action is required to deal with, anticipate and adapt to the impacts of a changing...ater and Atmospheric Research (Pearce et al., 2018). Climate Change Risk Assessment for Auckland The
+
+> standard for all new developments and infrastructure. 5. Plan for a quality compact urban form that...hrough to contracting and construction is strongly compartmentalised. The purpose of the flagship is
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the issue of adapting to a changing climate. It presents a comprehensive framework that includes specific targets and actions for climate adaptation, often referring to this as 'building resilience' or 'reducing vulnerability'. The plan includes actions such as enhancing ecosystem services and connectivity, making development and infrastructure climate-compatible, shifting to decentralised renewable energy, transforming existing buildings and places, delivering clean, efficient and accessible mobility options, future-proofing communities and empowering individual action. The document also outlines the importance of prioritising and testing these actions, and engaging with various stakeholders in their development and implementation.
+
+Context: "Climate resilience is being climate-ready. It means anticipating, absorbing, accommodating or recovering from the impacts of climate change.  It means that our people, infrastructure, places and economy are prepared. Done well, it means more than “bouncing back” – it means “bouncing forward.”
+
+Explanation: This context is relevant as it defines what climate resilience means in the plan, which is essentially about adapting to a changing climate. It highlights that this involves not just recovering from the impacts of climate change, but also anticipating, absorbing, and accommodating these impacts. It also underscores that this resilience extends to people, infrastructure, places, and the economy, which indicates a comprehensive approach to climate adaptation.
+
+8
+# Attribute 8: Planning for informed action
+## Think about how the document addresses 'planning for informed action'. Are the document's targets, actions and monitoring based on current scientific data? Does the plan aim to develop monitoring and evaluation capacities and research?
+### Context
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> standard for all new developments and infrastructure. 5. Plan for a quality compact urban form that...hrough to contracting and construction is strongly compartmentalised. The purpose of the flagship is
+
+> Academia, MBIE, National Science Challenges Be transparent and provide data and information to enabl...easuring progress and indicators We have identified a set of indicators to monitor the impact of the
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> A set of priority actions and areas of focus began to emerge. Refining actions and scoping implemen...ed develop five flagship actions. The flagships demonstrate what collaborative climate action looks
+
+> au, Aotearoa and globally Establish a rangatahi governance rōpū to audit the Auckland Climate Action...papa that matter to them Rangatahi have safe and supportive spaces which awhi their voice and mana R
+
+> included representatives from the District Health Board and the Ministry for the Environment. We he...he Independent Advisory Group, our internal cross-council working group and with executive leaders.
+
+> Climate Change Risk Assessment technical report series was done using the Intergovernmental Panel o...Auckland. To both mitigate and adapt to climate change and to inform planning and decision making,
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> • Move away from a capital cost-based analysis for assessing development options, to measuring whol...systems to provide climate resilience. Conversely, evidence demonstrates that quality compact urban
+
+> Auckland Council, Academia, Establish a voluntary ecosystem marketplace to generate funding for natu...astal and marine ecosystems to capture Action Who needs to be involved carbon and provide resilience
+
+> Council facilitated this framework in collaboration with stakeholders across the region. Actions an...ve Your Say events, and by providing feedback at: akhaveyoursay.nz This document is available online
+
+> . Implement kerbside food scraps collection service across urban Auckland 2. Support primary industr...tional equity A group of rangatahi Māori and Pasifika have worked to develop a draft Innovation Waka
+
+> first of its kind in New Zealand. The CCRA looks at risks to our people, our environment and our in...economy The draft framework contains 11 key moves for Tāmaki Makaurau. Some will be delivered more
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> ’s unique cultural heritage and diversity. Equity and a just transition Ensuring fair and affordable...show promise if scaled up Actions essential to unlocking system change, better evidence, additional
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> systems, to climate finance, to how climate change affects Māori. All 170 elected members have als...ctions and themes that inform and are integrated into this action framework. Find out more about the
+
+> like council committees and the Mana Whenua Kaitiaki Forum. But new crosssector groups may need to...nance.13” Our work builds on and connects into a range of existing concepts and initiatives14. The
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the subject of 'planning for informed action'. It emphasizes the use of current scientific data in identifying climate change risks and planning actions. It also discusses the development of monitoring and evaluation capacities and research. The document highlights the importance of regular review and update of climate change evidence, providing guidance to decision makers for its use, and being transparent with data and information to enable citizen science, innovation and research. 
+
+Context: "Regularly review and update climate change evidence and provide guidance to decision makers for its use. Be transparent and provide data and information to enable citizen science, innovation and research."
+
+Explanation: This quote is relevant as it explicitly mentions the use of current scientific data in planning actions and the importance of developing monitoring and evaluation capacities and research. It also emphasizes transparency in data sharing, which is vital for informed decision making and action planning.
+
+9
+# Attribute 9: Coordination, partnerships and advocacy for action
+## Think about how the document addresses 'coordination, partnerships and advocacy for action'. Does the document include advocating upward to state and national governments to support radical action? Does the document encourage building local capacity across council, their local communities and neighbouring local councils?
+### Context
+> to ensure the most benefit to Aucklanders. Many of these issues deal directly or indirectly with c...artnership The complexity of climate change requires action from all sectors. Partnerships are one
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> Regularly review and update climate change evidence and provide guidance to decision makers for its...ies and organisations to an effective governance model. Governance will draw on existing structures
+
+> Auckland Climate Symposium in the supporting information section. Find out more about Developing th...Auckland will need to work closely to deliver the aspirations of both the Zero Carbon Bill and this
+
+> like council committees and the Mana Whenua Kaitiaki Forum. But new crosssector groups may need to...nance.13” Our work builds on and connects into a range of existing concepts and initiatives14. The
+
+> Council, Sustainable Business Network, Auckland Action Who needs to be involved Council, Te Puni Kok...Action Who needs to be involved efficient use of resources. Embed circular principles into Auckland�
+
+> way to bring sectors and actions together to make greater impact. The Auckland Council group partne...nd Council23. It delivered free home health checks for selected ratepayers, installed renewable and
+
+> systems, to climate finance, to how climate change affects Māori. All 170 elected members have als...ctions and themes that inform and are integrated into this action framework. Find out more about the
+
+> Vegetable Growers, NGOs Establish a cross-sector sustainable food policy council to advise policy ma...empowers Aucklanders to take action and have a say in climate decisions. Climate Leaders Coalition,
+
+> Support Auckland Council provides targeted resources to support important community outcomes, inclu...very Auckland Council and CCOs work with others to help develop Auckland. Auckland Council and CCOs,
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> process. Auckland’s local and regional approach is aligned with a supportive and enabling national...and decisions. 5. Embed climate change assessments into decision-making processes and reporting. 6.
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> like. They spark activities to bring sectors together and scale up solutions. A month later, the ra...acy The Auckland Council group advocates to New Zealand Government on a range of policies and issues
+
+> the NZ Climate Leaders Coalition agreement. Facilitation Auckland Council plays a role in bringing...n framework for action on climate change is the Climate Change Response (Zero Carbon) Amendment Bill
+
+> Academia, MBIE, National Science Challenges Be transparent and provide data and information to enabl...easuring progress and indicators We have identified a set of indicators to monitor the impact of the
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> A set of priority actions and areas of focus began to emerge. Refining actions and scoping implemen...ed develop five flagship actions. The flagships demonstrate what collaborative climate action looks
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly addresses the concept of coordination, partnerships, and advocacy for action. It stresses the importance of advocacy to the New Zealand Government to ensure policy alignment and funding for climate change initiatives. It also emphasizes the need for collaboration and partnerships across all sectors, including local communities, council, and other organizations. The document also mentions the need for building local capacity across the council, their local communities, and neighboring local councils. 
+
+Context: "Council’s advocacy to Government helps ensure that the policy settings, frameworks and funding are aligned and give effect to our needs related to climate change." 
+
+Explanation: This quote shows the council's commitment to advocating for climate change initiatives to the government. It also suggests that the council is actively seeking support from the government to ensure the success of their climate change framework. This indicates a high level of coordination and partnership between the council and the government. 
+
+Context: "The complexity of climate change requires action from all sectors. Partnerships are one way to bring sectors and actions together to make greater impact."
+
+Explanation: This quote emphasizes the council's belief in the importance of partnerships across all sectors in addressing climate change. This includes local communities and neighboring local councils, indicating a high level of coordination and capacity building at the local level.
+
+10
+# Attribute 10: Equity and social justice
+## Think about how the document addresses 'equity and social justice'. Does the document discuss the impact of climate change on vulnerable communities, who are likely to be the ﬁrst and worst impacted by climate change?
+### Context
+> food and energy security, and rising inequality. In fact, climate change may make many of these ch...kland and our communities more resilient. It also serves as a baseline for future research that may
+
+> Climate Change Risk Assessment technical report series was done using the Intergovernmental Panel o...Auckland. To both mitigate and adapt to climate change and to inform planning and decision making,
+
+> rethinking how each of us lives and the choices we all make, including how we travel, what we buy a...Aucklanders understand what climate change means for them, their whānau and their communities – now
+
+> increase our abilities to effectively prepare and respond to climate change. Find out more about th...g the framework with Māori Continuing collaboration with Mana Whenua and mataawaka – text to follow.
+
+> , even if global emissions reduce rapidly. They will be far more severe if countries fail to delive...Institute of Water and Atmospheric Research (NIWA)6 looks at Auckland’s future climate. The report
+
+> research that may increase our abilities to effectively prepare and respond to climate change. What...fficiencies. By taking fewer resources, using resources well and regenerating what we use, we close
+
+> partners to go beyond that. Each key move and action, therefore, has been crafted for its ability t...and physical wellbeing. Diversity of response Drawing on, reflecting and celebrating Tāmaki Makaurau
+
+> for low carbon goods and services and possible damage to commercial assets. But climate change can...he Just Transition in the supporting information section. What do we want for the future? Auckland’s
+
+> KEY MOVE 1: Enhance ecosystem services and connectivity .......................................... 2...e framework ........................................................................................
+
+> Communities and the organisations that represent them are at the forefront of dealing with climate...a healthy and connected natural environment that restores the mauri of Tāmaki Makaurau and provides
+
+> Massey University Mitigation What is climate resilience? Climate resilience is being climate-ready....framework make Auckland and its communities more resilient. It also serves as a baseline for future
+
+> Prioritising The first step in developing this draft framework was to identify priorities for the r...lenged the work to date. They brought technical expertise ranging from climate adaptation and energy
+
+> • Move away from a capital cost-based analysis for assessing development options, to measuring whol...systems to provide climate resilience. Conversely, evidence demonstrates that quality compact urban
+
+> ready means anticipating, absorbing, accommodating or recovering from the impacts of climate change...essment Climate change is impacting Auckland. Projections indicate that impacts will intensify over
+
+> Climate change is expected to increase the risk from natural hazards and poses other risks like sea...ble in the buildings and facilities we operate, the materials and services we procure and the public
+
+> and together we have the capacity, resources and leadership to deliver. The success of this framewor...climate decision making. Information is continuously updated and embedded into the decision-making
+
+> benefits for all Key Move 2: Make development and infrastructure climate-compatible Goal: All new d...arbon, climate resilient economy Goal: Tāmaki Makaurau sets an example for climate smart innovation,
+
+> zealand-preliminary-survey); The Productivity Commission Low-Emissions Economy report (https://www.p...design, and link together rural and urban environments by bringing waterways and greenspace into the
+
+> ivering water infrastructure. Future-proofing water and stormwater infrastructure delivers a range...nz/grants-community-support-housing/grants/Pages/default.aspx 25 https://www.aucklandcouncil.govt.nz
+
+> ’s unique cultural heritage and diversity. Equity and a just transition Ensuring fair and affordable...show promise if scaled up Actions essential to unlocking system change, better evidence, additional
+
+
+## Answer
+Short answer: 3: Thoroughly
+
+Long answer: The document thoroughly discusses the impact of climate change on vulnerable communities, emphasizing the need for a just transition that is fair, equitable, and inclusive. It acknowledges that the ability of people and households to prepare, adapt, and respond to the effects of climate change depends on factors such as where people live, their health and income, and their support networks. The document also highlights the importance of prioritizing more vulnerable people and communities in preparing for climate change impacts.
+
+Context: "The ability of people and households to prepare, adapt and respond to the effects of climate change depends on where people live, their health and income, and their support networks." and "A just transition is one that is fair, equitable and inclusive."
+
+Explanation: These quotes demonstrate the document's recognition of the differential impacts of climate change on different communities, particularly vulnerable ones. It underscores the importance of equity and social justice in the context of climate change, advocating for a just transition that minimally impacts these communities and provides them with the necessary support to adapt and respond to climate change.
+
