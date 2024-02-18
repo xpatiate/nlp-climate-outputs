@@ -5,3 +5,7 @@ body {
 h2 {
   color: lightgrey;
 }
+
+hr {
+  page-break-after: always;
+}
