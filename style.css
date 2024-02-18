@@ -3,9 +3,17 @@ body {
 }
 
 h2 {
-  color: lightgrey;
+  color: darkgreen;
+  margin-top: 100px;
+}
+
+h3 {
+  color: lightslategrey;
+  margin-top: 15px;
+  font-weight: medium;
 }
 
 hr {
+  margin-top: 20px;
   page-break-after: always;
 }
